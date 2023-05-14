@@ -1,0 +1,6 @@
+dockerfile
+.dockerignore
+.gitignore
+
+#artifacts that will be built during image processing 
+node_modules
